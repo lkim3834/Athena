@@ -1,4 +1,4 @@
-<img src="/Athena/Athena/Assets.xcassets/AppIcon.appiconset/Icon.png" width="200">
+<img src="project-Athena/Athena/Athena/Assets.xcassets/AppIcon.appiconset/Icon.png" width="200">
 
 # Athena
 Athena is an iOS app that allows you to track the books you are currently reading. With a simple UI and powerful features, you can easily get into the habit of reading with daily reminders and a clear view of the progress you are making on the books you are reading. You can also store the different books you have read along with the books you hope to read in the future. Furthermore, Athena allows you to take notes about what you've read.
